@@ -1,6 +1,7 @@
 
 # Booly
 Truthy falsy game for javascripters: a one button jam submission.
+[Play this game at itch.io](https://spaz.itch.io/booly) or continue reading.
 
 ## Installation and use
 Just clone the repo and serve.
@@ -11,7 +12,7 @@ $ cd booly
 $ ruby -run -e httpd . -p 9090
 </pre>
 
-Then just navigate to http://localhost:9090 in a browser.
+Then navigate to http://localhost:9090 in a browser.
 
 ## Support
 Tested in recent Chrome, Firefox, IE
