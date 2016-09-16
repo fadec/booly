@@ -1,6 +1,6 @@
 
 # Booly
-Truthy falsy game for javascripters: a one button jam submission.
+Truthy falsy game for javascripters: a [One Button Jam](https://itch.io/jam/one-button-to-rule-all-jam) submission.
 [Play this game at itch.io](https://spaz.itch.io/booly) or continue reading.
 
 ## Installation and use
